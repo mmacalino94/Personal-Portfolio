@@ -148,6 +148,16 @@ h3, h2 {
   margin-right: 40px;
 }
 
+#rupee  {
+  width: 60%;
+  margin-left: 20%;
+}
+
+#pika {
+  width: 100%;
+  /* margin-bottom: 5%; */
+}
+
 .work img {
   width: 100%;
   border: 0 none;
@@ -175,6 +185,7 @@ h3, h2 {
   margin-top: 10px;
   margin-right: 25px;
 }
+
 
 /* contact page */
 
